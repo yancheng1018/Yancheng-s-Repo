@@ -1,1 +1,2 @@
-# Yancheng-s-Repo
+#QQGroupRepeater
+###*——A Interesting Function Designed for QQ*
